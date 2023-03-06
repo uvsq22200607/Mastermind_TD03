@@ -1,5 +1,5 @@
 # Mastermind_TD03
 
-Aomar Tebib
+Aomar TEBIB
 Mathieu HUGO
 Ilies MOMTAZ
