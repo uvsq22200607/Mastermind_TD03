@@ -2,7 +2,7 @@
 
 Aomar TEBIB
 Mathieu HUGO
-Ilies MOMTAZ
+Iliès MOMTAZ
 
 URL du dépot de projet : https://github.com/uvsq22200607/Mastermind_TD03
 
